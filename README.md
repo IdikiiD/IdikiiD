@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVpMWEwZWdqMzk1djRodHowb3RlcDI4c3MyNG14MjZwODZsZ2FhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uxxXyTRFgIJaOZJTb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBsMm5oYjhjeXMwazU0bWh3Nnlzb2F4aTRjdTRiMWdhcnduM3pkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JQUvC14KMN7UPQwEVb/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ivan-dikii-79747926a/">
